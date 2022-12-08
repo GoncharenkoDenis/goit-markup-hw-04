@@ -481,6 +481,7 @@ color: var(--white-bg-color);
 .footer-icon{
     fill: currentColor;
 }
+
 .footer-soc-items:not(:last-child){
     margin-right: 10px;
 }
